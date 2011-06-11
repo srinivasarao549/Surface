@@ -1,0 +1,11 @@
+Surface
+-------
+
+A few years ago I made a 2D water experiment in Flash, and I really wanted to remake it in WebGL. You should try dragging and dropping your own images onto the surface :)
+
+Additional Credits:
+ - Thodoris Tsiridis (the default, and amazing, photo)
+ - Mr. doob & AlteredQualia, Three.js
+ - Paul Irish, Modernizr and rAF shim
+
+As always these libs, etc are included for convenience but I encourage you to look at the original projects.
